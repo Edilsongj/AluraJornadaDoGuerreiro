@@ -1,4 +1,4 @@
-⚔️ Alura Jornada do Guerreiro
+⚔️ Jornada do Guerreiro
 
 Este projeto faz parte da minha jornada de estudos em C# através do curso da Alura. 
 É um mini jogo de texto interativo no console,onde o jogador percorre uma jornada enfrentando desafios.
